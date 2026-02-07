@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "あの日のままのぼくら",
+  "base_artist": "ダクネス(CV:茅野愛衣)、めぐみん(CV:高橋李依)、アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+  "createdAt": "2026-02-07T05:01:47.111234Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら",
+      "artist": "アクア(CV.雨宮天)、めぐみん(CV.高橋李依)、ダクネス(CV.茅野愛衣)",
+      "has_synced": false,
+      "path": "select/01_あの日のままのぼくら_アクア(CV.雨宮天)、めぐみん(CV.高橋李依)、ダクネス(CV.茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら [96kHz/24bit]",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/02_あの日のままのぼくら_[96kHz_24bit]_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら -ダクネス ver.- [96kHz/24bit]",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/03_あの日のままのぼくら_-ダクネス_ver.-_[96kHz_24bit]_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/04_あの日のままのぼくら_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら -ダクネス ver.-",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/05_あの日のままのぼくら_-ダクネス_ver.-_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら (Konosuba S3 ED)",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/06_あの日のままのぼくら_(Konosuba_S3_ED)_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら (ダクネス ver.)",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/07_あの日のままのぼくら_(ダクネス_ver.)_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら",
+      "artist": "ハンバート ハンバート",
+      "has_synced": true,
+      "path": "select/08_あの日のままのぼくら_ハンバート_ハンバート.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら",
+      "artist": "Humbert Humbert",
+      "has_synced": true,
+      "path": "select/09_あの日のままのぼくら_Humbert_Humbert.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あの日のままのぼくら",
+      "artist": "ダクネス(CV:茅野愛衣)、めぐみん(CV:高橋李依)、アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/10_あの日のままのぼくら_ダクネス(CV_茅野愛衣)、めぐみん(CV_高橋李依)、アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの日のままのぼくら - ダクネス ver.",
+      "artist": "ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/pl_01_あの日のままのぼくら_-_ダクネス_ver._ダクネス(CV_茅野愛衣).txt"
+    }
+  ]
+}
